@@ -1,0 +1,16 @@
+﻿1CV8LOG(ver 2.0)
+5e08473f-2af1-47f3-b37a-c4d0b9050940
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"WS-0004",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$InfoBase$_.RestoreStart",3},
+{4,"_$Session$_.Finish",4},
+{4,"_$InfoBase$_.RestoreFinish",5},
+{4,"_$InfoBase$_.DBConfigUpdateStart",6},
+{4,"_$InfoBase$_.DBConfigUpdate",7},
+{3,"1CV8C",2},
+{3,"BackgroundJob",3}
